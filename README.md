@@ -71,7 +71,7 @@ BotBack/
    git clone https://github.com/Chema40/backbot
    cd BotBack
    ```
-2. Run in local (run backend before frontend)
+2. Run in local (create environment for both and run backend before frontend)
    - Run backend in local:
       ```bash
       cd Backend
