@@ -1,4 +1,4 @@
-# BotBack Project
+# Backbot Project
 
 ## Project Description
 BotBack is a full-stack application designed to handle requests and queries across different departments of an organization.
