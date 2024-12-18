@@ -1,0 +1,44 @@
+# Entornos virtuales
+backend/.venv/
+frontend/.venv/
+
+# Archivos y carpetas generados por Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Archivos de configuración del entorno
+.env
+*.env
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Archivos generados por Streamlit
+frontend/.streamlit/
+frontend/.stcache/
+frontend/.stcheck/
+
+# Configuración específica de editores
+.vscode/
+*.swp
+*.swo
+
+# Configuración de logs
+logs/
+*.log
+
+# Archivos de prueba o temporales
+test_coverage/
+*.coverage
+.tox/
+*.tmp
+.DS_Store
+
+# Carpeta de compilación
+dist/
+build/
+*.egg-info/
